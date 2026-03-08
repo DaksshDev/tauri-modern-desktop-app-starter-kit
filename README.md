@@ -4,7 +4,7 @@
 </p>
 <br clear="all">
 
-A minimal, student-friendly starter template for building native desktop applications using Tauri, React, and Vite.
+A minimal, easy to use starter template for building desktop applications using Tauri, React, and Vite.
 
 ## Screenshots
 
@@ -31,7 +31,7 @@ Please ensure you follow the [Tauri setup guide](https://v2.tauri.app/start/prer
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DaksshDev/tauri-modern-desktop-app-starter-kit.git
    cd tauri-modern-desktop-app-starter-kit
    ```
 2. **Install dependencies:**
@@ -65,3 +65,5 @@ You can easily adapt this template to suit your needs:
 ## Contributing
 
 Contributions are welcome. If you find a bug or have an idea to improve this template, please feel free to open an issue or submit a pull request.
+
+If you liked this repo please give it a star! ⭐

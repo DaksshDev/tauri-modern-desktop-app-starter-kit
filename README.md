@@ -62,7 +62,8 @@ You can easily adapt this template to suit your needs:
    ```
 2. **HTML Meta Setup**: Remember to modify the `<title>` and update the favicon link in `./index.html` too.
 3. **App Config**: Open `./src-tauri/tauri.conf.json` and configure your app's `productName` and `identifier`.
-4. **Theming**: You can add your own color scheme by modifying the CSS variables inside `./src/styles.css`.
+4. **Titlebar Config**: Open `./src/window/Titlebar.jsx` and modify the Logo and Title fields and add your logo to `./src/window/icon.png`.
+5. **Theming**: You can add your own color scheme by modifying the CSS variables inside `./src/styles.css`.
 
 ## Contributing
 

@@ -22,7 +22,7 @@ export default function Home() {
       permissionGranted = permission === 'granted';
     }
     if (permissionGranted) {
-      sendNotification({ title: 'Sandstone Desktop', body: 'Hello from Tauri v2!' });
+      sendNotification({ title: 'Change Name from ./src/pages/Home.jsx', body: 'Hello from Tauri v2!' });
     }
   };
 

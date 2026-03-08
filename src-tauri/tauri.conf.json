@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "sandstone-desktop",
+  "productName": "MyApp",
   "version": "0.1.0",
-  "identifier": "com.daksshdev.sandstone.desktop",
+  "identifier": "com.yourname.appname",
   "build": {
     "beforeDevCommand": "npm run dev",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,11 @@
   "app": {
     "windows": [
       {
-        "title": "sandstone-desktop",
+        "title": "MyApp",
+        "minWidth": 400,
+        "minHeight": 300,
+        "decorations": false,
+        "transparent": false,
         "width": 800,
         "height": 600
       }

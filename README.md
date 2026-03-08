@@ -18,8 +18,10 @@ A minimal, easy to use starter template for building desktop applications using 
 - Built with modern React, Vite, and Tauri v2.
 - Simple, straightforward project structure.
 - Pre-configured custom titlebar.
-- Integrated system tray icon with "minimize to tray" setting.
-- OS Autostart functionality out of the box.
+- Vs Code-like shadcn color styles Out of the box.
+- Integrated system tray icon with "minimize to tray" toggle.
+- OS Autostart toggle.
+- easy to use.
 
 ## Getting Started
 
